@@ -19,5 +19,11 @@ code .
 ```
 
 Pull requests are most welcome <3
+
+## Content
+| File                                                                                                        | Description Of Content                                                             |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [1-most-basic-program.c](https://github.com/mohabgabber/seecheatsheet/blob/main/1-the-most-basic-program.c) | Just a very simple "Hello world" file.                                             |
+| [2-variables-overview.c](https://github.com/mohabgabber/seecheatsheet/blob/main/2-variables-overview.c)     | A very simple introduction to initializing variables and assigning values to them. |
 ## Note
 I recommend installing the extension "Better Comments" in vs code to highlight the comments and make them easier to read.
