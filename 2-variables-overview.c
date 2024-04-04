@@ -14,8 +14,13 @@ int main(void)
     printf("%d\n", myint); //* the "\n" is used to print a new line
 
     //* You can also assign values at initialization directly
-    char mychar = 'c'; //* the value must be in single quotation marks
-    printf("%c", mychar);
+    char mychar = 'c';
+    printf("%c", mychar); //* "%c" is the format specifier for the data type char (character)
 
     return 0;
 }
+
+//! Notes
+/*
+ * When assigning a char value, make sure to wrap the char in single quotation marks, as double quotation marks denote a string of characters, not a single character.
+ */
