@@ -27,5 +27,6 @@ Pull requests are most welcome <3
 | [2-variables-overview.c](https://github.com/mohabgabber/seecheatsheet/blob/main/2-variables-overview.c)                 | A very simple introduction to initializing variables and assigning values to them. |
 | [3-data-types.c](https://github.com/mohabgabber/seecheatsheet/blob/main/3-data-types.c)                                 | Basic Data types in C explained                                                    |
 | [4-advanced-data-types-part-1.c](https://github.com/mohabgabber/seecheatsheet/blob/main/4-advanced-data-types-part-1.c) | Advanced Data Types, Part 1                                                        |
+| [5-advanced-data-types-part-2.c](https://github.com/mohabgabber/seecheatsheet/blob/main/5-advanced-data-types-part-2.c) | Advanced Data Types, Part 2                                                        |
 ## Note
 I recommend installing the extension "Better Comments" in vs code to highlight the comments and make them easier to read.

@@ -4,31 +4,31 @@
 
 int main(void)
 {
-    //* char variables
+    //* Char variables
     char mychar = 'C'; //* Must be inside single quotation marks
-    printf("%c\n", mychar);
+    printf("Char: %c\n", mychar);
 
     //* array of chars
     //* when assigning a value to an array of characters it must be inside double quotation marks
     char mystring[6] = "Hello"; //* This string can have a maximum of 5 chars, the final one is for the null character.
-    printf("%s\n", mystring);
+    printf("Fixed-Size string: %s\n", mystring);
 
     char mysecondstring[] = "I am free!"; //* Strings can also be specified without a specific size
-    printf("%s\n", mysecondstring);
+    printf("A string with no specified length: %s\n", mysecondstring);
 
     //* Boolean Variables
-    bool myboolean = true;     //* A boolean variable can only be either true, or false. Which is represented as the integer 1 for true, and 0 for false
-    printf("%d\n", myboolean); //* This will print 1, because the value is true
+    bool myboolean = true;              //* A boolean variable can only be either true, or false. Which is represented as the integer 1 for true, and 0 for false
+    printf("Boolean: %d\n", myboolean); //* This will print 1, because the value is true
 
     //* Numeric Variables
     int myinteger = 100; //* Integer values can be between -2,147,483,648 to +2,147,483,647
-    printf("%d\n", myinteger);
+    printf("Integer: %d\n", myinteger);
 
     float myfloat = 100.1254; //* 6 decimal points
-    printf("%f\n", myfloat);
+    printf("Float: %f\n", myfloat);
 
     double mydouble = 10000.545455; //* 15 decimal points
-    printf("%lf\n", mydouble);
+    printf("Double: %lf\n", mydouble);
     return 0;
 }
 
